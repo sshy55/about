@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sshy55
 - 👀 I’m interested in Computer Sciences
-- 🌱 I’m currently learning: python, HTML, CSS, JS, C.
+- 🌱 I’m currently learning: Python, HTML, CSS, JS, C, SQL.
 
 <!---
 - 💞️ I’m looking to collaborate on ...
